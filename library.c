@@ -381,7 +381,7 @@ void returnBook(void)
     }
     
     if (!found) {
-        printf("\nNguoi dung nay khong muon sach nay!\n");
+        //printf("\nNguoi dung nay!\n");
         return;
     }
     
